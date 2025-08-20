@@ -133,6 +133,12 @@ Detect fraudulent transactions and identify **key risk drivers** to support prev
 
 ---
 
+## 📁 Download Dataset
+
+[Google Drive Link](https://drive.google.com/drive/folders/1_EndGMM3kO6pOpOMmSXoKVEZrB2PHg3j?usp=sharing)
+
+---
+
 ## 💻 How to Run
 
 1. **Environment:** Python 3.9+
